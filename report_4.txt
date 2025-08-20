@@ -1,0 +1,5 @@
+Patient Name: Priya Das
+    Age: 46
+    Gender: Female
+    Symptoms: cold hands, insomnia, weight loss, night sweats, nausea
+    Blood Pressure: 141/70

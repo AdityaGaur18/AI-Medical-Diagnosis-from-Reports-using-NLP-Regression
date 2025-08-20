@@ -1,0 +1,5 @@
+Patient Name: Neha Patel
+    Age: 21
+    Gender: Female
+    Symptoms: nausea, shortness of breath, cold hands
+    Blood Pressure: 132/81

@@ -1,0 +1,5 @@
+Patient Name: Arjun Singh
+    Age: 63
+    Gender: Male
+    Symptoms: insomnia, shortness of breath, fever, headache, joint pain
+    Blood Pressure: 112/71

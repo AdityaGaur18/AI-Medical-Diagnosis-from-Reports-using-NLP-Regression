@@ -1,0 +1,5 @@
+Patient Name: Ravi Sharma
+    Age: 27
+    Gender: Male
+    Symptoms: weight loss, blurred vision, fever, fatigue, cough
+    Blood Pressure: 142/82

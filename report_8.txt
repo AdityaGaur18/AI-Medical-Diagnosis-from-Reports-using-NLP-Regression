@@ -1,0 +1,5 @@
+Patient Name: Pooja Mehra
+    Age: 37
+    Gender: Female
+    Symptoms: shortness of breath, blurred vision, cough, fever
+    Blood Pressure: 130/80

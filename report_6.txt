@@ -1,0 +1,5 @@
+Patient Name: Sneha Iyer
+    Age: 61
+    Gender: Female
+    Symptoms: persistent cough, joint pain, headache, fever
+    Blood Pressure: 126/77

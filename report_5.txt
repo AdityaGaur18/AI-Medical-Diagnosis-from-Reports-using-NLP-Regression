@@ -1,0 +1,5 @@
+Patient Name: Karan Joshi
+    Age: 41
+    Gender: Male
+    Symptoms: fever, fatigue, dizziness
+    Blood Pressure: 118/73

@@ -1,0 +1,5 @@
+Patient Name: Aman Verma
+    Age: 36
+    Gender: Male
+    Symptoms: cough, fatigue, weight loss, headache
+    Blood Pressure: 115/87

@@ -1,0 +1,101 @@
+disease,symptoms,medicine,doctor_specialist
+COVID-19,fatigue|cough|fever,Remdesivir|Azithromycin,Infectious Disease Specialist
+COVID-19,fatigue|fever|shortness of breath,Remdesivir|Azithromycin,Infectious Disease Specialist
+COVID-19,fever|loss of taste|cough,Paracetamol|Remdesivir,Infectious Disease Specialist
+Depression,insomnia|fatigue|guilt,Sertraline|Escitalopram,Psychiatrist
+Anemia,fatigue|shortness of breath|pale skin,Ferrous sulfate|Vitamin B12,Hematologist
+Migraine,visual disturbance|headache|sensitivity to light,Aspirin|Sumatriptan,Neurologist
+Asthma,chest tightness|coughing|shortness of breath,Montelukast|Fluticasone,Pulmonologist
+Asthma,coughing|wheezing|chest tightness,Albuterol|Fluticasone,Pulmonologist
+Arthritis,swelling|joint pain|limited movement,Methotrexate|Ibuprofen,Rheumatologist
+Asthma,coughing|wheezing|chest tightness,Albuterol|Fluticasone,Pulmonologist
+Asthma,wheezing|shortness of breath|coughing,Fluticasone|Albuterol,Pulmonologist
+Thyroid Disorder,cold intolerance|weight gain|dry skin,Levothyroxine|Methimazole,Endocrinologist
+Thyroid Disorder,fatigue|cold intolerance|dry skin,Levothyroxine|Propylthiouracil,Endocrinologist
+Tuberculosis,weight loss|fever|night sweats,Rifampin|Isoniazid,Pulmonologist
+Hypertension,headache|chest pain|blurred vision,Losartan|Amlodipine,Cardiologist
+Diabetes,increased thirst|blurred vision|frequent urination,Glipizide|Metformin,Endocrinologist
+Hypertension,dizziness|headache|chest pain,Lisinopril|Losartan,Cardiologist
+Anemia,fatigue|pale skin|cold hands,Vitamin B12|Folic acid,Hematologist
+Tuberculosis,fever|night sweats|fatigue,Isoniazid|Ethambutol,Pulmonologist
+COVID-19,fatigue|fever|cough,Remdesivir|Azithromycin,Infectious Disease Specialist
+Depression,guilt|insomnia|loss of interest,Fluoxetine|Escitalopram,Psychiatrist
+Depression,fatigue|loss of interest|insomnia,Fluoxetine|Escitalopram,Psychiatrist
+Migraine,headache|nausea|visual disturbance,Sumatriptan|Ibuprofen,Neurologist
+Asthma,chest tightness|shortness of breath|wheezing,Albuterol|Fluticasone,Pulmonologist
+Diabetes,slow healing|fatigue|frequent urination,Insulin|Metformin,Endocrinologist
+Diabetes,slow healing|increased thirst|fatigue,Glipizide|Insulin,Endocrinologist
+Tuberculosis,persistent cough|fatigue|fever,Ethambutol|Rifampin,Pulmonologist
+COVID-19,loss of taste|cough|shortness of breath,Remdesivir|Azithromycin,Infectious Disease Specialist
+Thyroid Disorder,fatigue|weight gain|cold intolerance,Levothyroxine|Methimazole,Endocrinologist
+Thyroid Disorder,dry skin|fatigue|weight gain,Levothyroxine|Methimazole,Endocrinologist
+Arthritis,stiffness|swelling|joint pain,Naproxen|Ibuprofen,Rheumatologist
+COVID-19,shortness of breath|cough|loss of taste,Azithromycin|Paracetamol,Infectious Disease Specialist
+Arthritis,stiffness|limited movement|swelling,Ibuprofen|Methotrexate,Rheumatologist
+COVID-19,loss of taste|fever|cough,Paracetamol|Remdesivir,Infectious Disease Specialist
+Thyroid Disorder,dry skin|cold intolerance|fatigue,Levothyroxine|Propylthiouracil,Endocrinologist
+COVID-19,fever|fatigue|shortness of breath,Azithromycin|Paracetamol,Infectious Disease Specialist
+Depression,insomnia|loss of interest|fatigue,Fluoxetine|Escitalopram,Psychiatrist
+Anemia,dizziness|cold hands|fatigue,Vitamin B12|Ferrous sulfate,Hematologist
+Arthritis,limited movement|joint pain|swelling,Methotrexate|Naproxen,Rheumatologist
+Hypertension,headache|dizziness|shortness of breath,Losartan|Lisinopril,Cardiologist
+Diabetes,fatigue|increased thirst|frequent urination,Glipizide|Metformin,Endocrinologist
+Thyroid Disorder,cold intolerance|fatigue|weight gain,Methimazole|Levothyroxine,Endocrinologist
+Thyroid Disorder,dry skin|weight gain|cold intolerance,Levothyroxine|Methimazole,Endocrinologist
+Asthma,shortness of breath|wheezing|chest tightness,Fluticasone|Montelukast,Pulmonologist
+Thyroid Disorder,weight gain|cold intolerance|dry skin,Levothyroxine|Propylthiouracil,Endocrinologist
+Thyroid Disorder,cold intolerance|fatigue|dry skin,Propylthiouracil|Methimazole,Endocrinologist
+Anemia,pale skin|fatigue|shortness of breath,Vitamin B12|Folic acid,Hematologist
+Diabetes,fatigue|increased thirst|frequent urination,Metformin|Insulin,Endocrinologist
+Hypertension,shortness of breath|chest pain|headache,Amlodipine|Lisinopril,Cardiologist
+Anemia,dizziness|cold hands|pale skin,Ferrous sulfate|Folic acid,Hematologist
+Anemia,fatigue|cold hands|dizziness,Ferrous sulfate|Folic acid,Hematologist
+Asthma,chest tightness|shortness of breath|coughing,Fluticasone|Albuterol,Pulmonologist
+Migraine,headache|visual disturbance|sensitivity to light,Ibuprofen|Sumatriptan,Neurologist
+Depression,fatigue|guilt|sadness,Sertraline|Escitalopram,Psychiatrist
+COVID-19,cough|fatigue|loss of taste,Remdesivir|Paracetamol,Infectious Disease Specialist
+Migraine,sensitivity to light|nausea|headache,Ibuprofen|Aspirin,Neurologist
+Hypertension,blurred vision|headache|chest pain,Lisinopril|Amlodipine,Cardiologist
+Arthritis,limited movement|joint pain|stiffness,Ibuprofen|Naproxen,Rheumatologist
+Asthma,shortness of breath|coughing|wheezing,Fluticasone|Albuterol,Pulmonologist
+Hypertension,chest pain|headache|dizziness,Losartan|Lisinopril,Cardiologist
+Migraine,visual disturbance|nausea|headache,Aspirin|Sumatriptan,Neurologist
+Anemia,dizziness|fatigue|shortness of breath,Folic acid|Vitamin B12,Hematologist
+Migraine,visual disturbance|headache|sensitivity to light,Ibuprofen|Sumatriptan,Neurologist
+Migraine,visual disturbance|headache|nausea,Sumatriptan|Aspirin,Neurologist
+Tuberculosis,weight loss|fatigue|persistent cough,Isoniazid|Ethambutol,Pulmonologist
+Tuberculosis,weight loss|night sweats|fatigue,Ethambutol|Isoniazid,Pulmonologist
+Hypertension,chest pain|dizziness|headache,Losartan|Amlodipine,Cardiologist
+COVID-19,fatigue|loss of taste|cough,Azithromycin|Paracetamol,Infectious Disease Specialist
+Arthritis,swelling|stiffness|joint pain,Methotrexate|Ibuprofen,Rheumatologist
+Migraine,visual disturbance|sensitivity to light|headache,Ibuprofen|Aspirin,Neurologist
+Tuberculosis,night sweats|fever|weight loss,Isoniazid|Ethambutol,Pulmonologist
+Thyroid Disorder,weight gain|cold intolerance|dry skin,Levothyroxine|Propylthiouracil,Endocrinologist
+Anemia,shortness of breath|pale skin|fatigue,Vitamin B12|Ferrous sulfate,Hematologist
+Depression,fatigue|insomnia|sadness,Escitalopram|Fluoxetine,Psychiatrist
+COVID-19,cough|shortness of breath|loss of taste,Paracetamol|Azithromycin,Infectious Disease Specialist
+COVID-19,shortness of breath|fever|fatigue,Paracetamol|Azithromycin,Infectious Disease Specialist
+Hypertension,dizziness|chest pain|headache,Amlodipine|Lisinopril,Cardiologist
+Diabetes,slow healing|fatigue|frequent urination,Insulin|Glipizide,Endocrinologist
+COVID-19,fever|fatigue|cough,Remdesivir|Paracetamol,Infectious Disease Specialist
+Tuberculosis,fatigue|fever|weight loss,Rifampin|Ethambutol,Pulmonologist
+Thyroid Disorder,weight gain|dry skin|fatigue,Propylthiouracil|Methimazole,Endocrinologist
+COVID-19,fever|cough|shortness of breath,Remdesivir|Azithromycin,Infectious Disease Specialist
+Asthma,wheezing|chest tightness|coughing,Albuterol|Fluticasone,Pulmonologist
+Depression,fatigue|loss of interest|insomnia,Sertraline|Escitalopram,Psychiatrist
+Migraine,sensitivity to light|visual disturbance|nausea,Ibuprofen|Aspirin,Neurologist
+Anemia,fatigue|pale skin|dizziness,Folic acid|Vitamin B12,Hematologist
+Diabetes,increased thirst|frequent urination|blurred vision,Glipizide|Metformin,Endocrinologist
+COVID-19,fatigue|cough|loss of taste,Remdesivir|Azithromycin,Infectious Disease Specialist
+Hypertension,headache|blurred vision|shortness of breath,Lisinopril|Losartan,Cardiologist
+COVID-19,fever|shortness of breath|loss of taste,Remdesivir|Azithromycin,Infectious Disease Specialist
+COVID-19,fever|cough|loss of taste,Paracetamol|Remdesivir,Infectious Disease Specialist
+Diabetes,blurred vision|slow healing|fatigue,Metformin|Glipizide,Endocrinologist
+Anemia,shortness of breath|fatigue|dizziness,Vitamin B12|Folic acid,Hematologist
+Hypertension,headache|dizziness|blurred vision,Losartan|Amlodipine,Cardiologist
+Thyroid Disorder,fatigue|weight gain|dry skin,Methimazole|Levothyroxine,Endocrinologist
+Depression,loss of interest|fatigue|guilt,Sertraline|Fluoxetine,Psychiatrist
+Migraine,nausea|headache|visual disturbance,Sumatriptan|Ibuprofen,Neurologist
+Migraine,nausea|sensitivity to light|headache,Ibuprofen|Sumatriptan,Neurologist
+Migraine,headache|sensitivity to light|nausea,Aspirin|Ibuprofen,Neurologist
+Depression,guilt|sadness|insomnia,Escitalopram|Fluoxetine,Psychiatrist
